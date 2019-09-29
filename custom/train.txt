@@ -1,0 +1,36 @@
+Dataset/Images/hotsauce2.jpg
+Dataset/Images/hotsauce1.jpg
+Dataset/Images/hotsauce3.jpg
+Dataset/Images/spi-c-eng.JPG
+Dataset/Images/IMG_3727.JPG
+Dataset/Images/IMG_3739.JPG
+Dataset/Images/srirrraachha.JPG
+Dataset/Images/IMG_3724.JPG
+Dataset/Images/spicy work snack.JPG
+Dataset/Images/IMG_3743.JPG
+Dataset/Images/hat sauce.JPG
+Dataset/Images/IMG_3722.JPG
+Dataset/Images/i spy-ce 3.JPG
+Dataset/Images/tabascookie.JPG
+Dataset/Images/IMG_3728.JPG
+Dataset/Images/IMG_3736.JPG
+Dataset/Images/IMG_3741.JPG
+Dataset/Images/i put that _ on everything.JPG
+Dataset/Images/IMG_3737.JPG
+Dataset/Images/the duality of sauce.JPG
+Dataset/Images/IMG_3735.JPG
+Dataset/Images/IMG_3729.JPG
+Dataset/Images/tiny tabasco.JPG
+Dataset/Images/IMG_3733.JPG
+Dataset/Images/IMG_3738.JPG
+Dataset/Images/IMG_3723.JPG
+Dataset/Images/prized possessions.JPG
+Dataset/Images/IMG_3742.JPG
+Dataset/Images/IMG_3740.JPG
+Dataset/Images/lost in the sauce.JPG
+Dataset/Images/i spy-ce 4.JPG
+Dataset/Images/IMG_3731.JPG
+Dataset/Images/i spy-ce 2.JPG
+Dataset/Images/i spy-ce.JPG
+Dataset/Images/IMG_3725.JPG
+Dataset/Images/IMG_3726.JPG
